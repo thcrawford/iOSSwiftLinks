@@ -2,40 +2,40 @@
 
 ### Standard Controls
 
-**Displaying Text via Apple**
+* **Displaying Text via Apple**
 [https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/UsingTextClasses/UsingTextClasses.html](https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/UsingTextClasses/UsingTextClasses.html)
 
-**UIButton via Danny Donzelli**
+* **UIButton via Danny Donzelli**
 [http://www.danieledonzelli.com/ios/uibutton-tutorial](http://www.danieledonzelli.com/ios/uibutton-tutorial)
 
-**UITextField via Danny Donzelli**
+* **UITextField via Danny Donzelli**
 [http://www.danieledonzelli.com/ios/uitextfield-tutorial](http://www.danieledonzelli.com/ios/uitextfield-tutorial)
 
-**UIStepper via Danny Donzelli**
+* **UIStepper via Danny Donzelli**
 [http://www.danieledonzelli.com/ios/uistepper-tutorial](http://www.danieledonzelli.com/ios/uistepper-tutorial)
 
-**UISwitch via Danny Donzelli**
+* **UISwitch via Danny Donzelli**
 [http://www.danieledonzelli.com/ios/uiswitch-tutorial](http://www.danieledonzelli.com/ios/uiswitch-tutorial)
 
-**UISlider via Danny Donzelli**
+* **UISlider via Danny Donzelli**
 [http://www.danieledonzelli.com/ios/uislider-tutorial](http://www.danieledonzelli.com/ios/uislider-tutorial)
 
-**UISegmentedControl via Tutlane**
+* **UISegmentedControl via Tutlane**
 [http://tutlane.com/tutorial/ios/ios-ui-segmented-controls](http://tutlane.com/tutorial/ios/ios-ui-segmented-controls)
 
-**UIPickerView Via Code With Chris**
+* **UIPickerView Via Code With Chris**
 [http://codewithchris.com/uipickerview-example/](http://codewithchris.com/uipickerview-example/)
 
-**UIPickerView Via Making Apple Pie**
+* **UIPickerView Via Making Apple Pie**
 [https://makeapppie.com/tag/uipickerview-in-swift](https://makeapppie.com/tag/uipickerview-in-swift)
 
-**UIDatePicker via Tutlane**
+* **UIDatePicker via Tutlane**
 [http://tutlane.com/tutorial/ios/ios-ui-datepicker](http://tutlane.com/tutorial/ios/ios-ui-datepicker)
 
-**UIDatePicker via Zharko Popovski**
+* **UIDatePicker via Zharko Popovski**
 [http://zharkopopovski.com/index.php/2016/08/08/using-uidatepicker-component-into-your-ios-app](http://zharkopopovski.com/index.php/2016/08/08/using-uidatepicker-component-into-your-ios-app)
 
-**UIDatePicker in TableView via Thomas Hanning**
+* **UIDatePicker in TableView via Thomas Hanning**
 [http://www.thomashanning.com/how-to-show-and-hide-a-date-picker-from-a-table-view-cell](http://www.thomashanning.com/how-to-show-and-hide-a-date-picker-from-a-table-view-cell)
 
 ### Git & GitHub
