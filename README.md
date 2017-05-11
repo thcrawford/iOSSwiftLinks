@@ -4,9 +4,9 @@ Yes, StackOverflow has become the defacto standard for developer documentation. 
 
 ### Standard Controls
 
-* **Displaying Text via Apple** [https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/UsingTextClasses/UsingTextClasses.html](https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/UsingTextClasses/UsingTextClasses.html)
+* Displaying Text via Apple [https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/UsingTextClasses/UsingTextClasses.html](https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/UsingTextClasses/UsingTextClasses.html)
 
-* **UIButton via Danny Donzelli**
+* UIButton via Danny Donzelli
 [http://www.danieledonzelli.com/ios/uibutton-tutorial](http://www.danieledonzelli.com/ios/uibutton-tutorial)
 
 * **UITextField via Danny Donzelli**
