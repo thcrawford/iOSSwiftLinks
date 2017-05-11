@@ -1,6 +1,6 @@
 ## Key References & Tutorials for iOS using Swift
 
-Yes, StackOverflow has become the defacto standard for developer documentation. However, sometimes a great tutorial or a well-written reference can be more useful than a line of code out of context. This is the list of links I provide to my iOS students, most of which who have only had a few hours to a few weeks worth of Swift coding experience. Generally, I steer away from video tutorials since they are difficult to use as reference materials when you're working through an example. Hopefully you'll find the list useful as well.
+Yes, StackOverflow has become the defacto standard for developer documentation. However, sometimes a great tutorial or a well-written reference can be more useful than a line of code out of context. This is the list of links I provide to my iOS students, most of which who have only had a few hours to a few weeks worth of Swift coding experience. Generally, I steer away from video tutorials since they are difficult to use as reference materials when they're working through an example. Hopefully you'll find the list useful as well.
 
 ### Standard Controls
 
